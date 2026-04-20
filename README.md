@@ -1,5 +1,3 @@
-Privacy Policy - LiteLight body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; background: #0e0e0e; color: #ffffff; } h1 { color: #EBFF00; } h2 { color: #EBFF00; margin-top: 24px; } a { color: #EBFF00; } .effective-date { color: #888; margin-bottom: 30px; } hr { border-color: #333; }
-
 # Privacy Policy for LiteLight
 
 **Effective Date:** April 20, 2026
